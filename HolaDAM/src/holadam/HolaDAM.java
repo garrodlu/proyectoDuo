@@ -15,6 +15,7 @@ public class HolaDAM {
      */
     public static void main(String[] args) {
         System.out.println("Hola DAM");
+        System.out.println("Estamos haciendo la práctica 2");
     }
     
 }
