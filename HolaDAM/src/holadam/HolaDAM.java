@@ -1,3 +1,4 @@
+<<<<<<< OURS
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
@@ -16,6 +17,7 @@ public class HolaDAM {
     public static void main(String[] args) {
         System.out.println("Hola DAM");
         System.out.println("Estamos haciendo la práctica 2");
+        System.out.println("Hola Desarrollador 1");
         System.out.println("Add una linea");
         System.out.println("Add otra linea");
     }
