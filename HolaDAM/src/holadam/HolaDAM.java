@@ -17,6 +17,7 @@ public class HolaDAM {
         System.out.println("Hola DAM");
         System.out.println("Estamos haciendo la práctica 2");
         System.out.println("Add una linea");
+        System.out.println("Add otra linea");
     }
     
 }
